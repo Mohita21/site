@@ -59,7 +59,7 @@ span.glyphicon.glyphicon-triangle-bottom {
 }
 .about{
 	background-size: cover;
-	background: #dea5a4;
+	background: #C6D9C7;
 /* 	background-image: url('../img/1.jpg');
  */	padding-bottom: 5vw;
 	text-align: center;
@@ -447,7 +447,7 @@ font-size: 2em;
   	padding-top: 10px;
 }
 .panel-default>.panel-heading {
-    background-color: lightcyan;
+    background-color: lightyellow;
     height: 1.5cm ;
     text-align: center;
 
