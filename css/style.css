@@ -448,6 +448,10 @@ font-size: 2em;
 }
 .panel-default>.panel-heading {
     background-color: lightcyan;
+    height: 1.5cm ;
+    text-align: center;
+
+
 }
 .navbar-inverse .navbar-nav>li:hover {
     background-color: #9d9d9d;
